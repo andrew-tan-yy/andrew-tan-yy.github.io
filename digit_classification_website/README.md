@@ -1,10 +1,10 @@
 # Digit classification website
 
 This folder contains
-..*tjfs.html(main code for the web app, written in HTML)
-..*spinner.gif(gif animation used by tjfs)
-..*README.md(file explaining folder contents, does not contain code)
-..*model(folder for group1-shard1of1.bin and model.json files desribing neural network models trained using TensorFlow)
+..* tjfs.html(main code for the web app, written in HTML)
+..* spinner.gif(gif animation used by tjfs)
+..* README.md(file explaining folder contents, does not contain code)
+..* model(folder for group1-shard1of1.bin and model.json files desribing neural network models trained using TensorFlow)
 
 Code is used and adapted with permission mainly from
 Deploying a Simple Machine Learning Model into a WebApp using TensorFlow.js by Carlos Aguayo https://towardsdatascience.com/deploying-a-simple-machine-learning-model-into-a-webapp-using-tensorflow-js-3609c297fb04
