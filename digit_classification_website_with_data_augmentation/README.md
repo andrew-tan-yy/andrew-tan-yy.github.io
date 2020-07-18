@@ -6,7 +6,7 @@ This folder contains
 - README.md (file explaining folder contents, does not contain code)
 - model (folder for group1-shard1of1.bin and model.json files desribing neural network models trained using TensorFlow)
 
-TensorFlow, TensorFlow.js and HTML Code is used and adapted with permission mainly from
+TensorFlow, TensorFlow.js, HTML Code and web ap deployment via GitHub is used and adapted with permission mainly from
 - [Deploying a Simple Machine Learning Model into a WebApp using TensorFlow.js by Carlos Aguayo](https://towardsdatascience.com/deploying-a-simple-machine-learning-model-into-a-webapp-using-tensorflow-js-3609c297fb04)
 
 TensorFlow code is also used and adapted from
