@@ -6,8 +6,8 @@ This folder contains
 - README.md (file explaining folder contents, does not contain code)
 - model (folder for group1-shard1of1.bin and model.json files desribing neural network models trained using TensorFlow)
 
-TensorFlow, TensorFlow.js, HTML Code and web ap deployment via GitHub is used and adapted with permission mainly from
-- [Deploying a Simple Machine Learning Model into a WebApp using TensorFlow.js by Carlos Aguayo](https://towardsdatascience.com/deploying-a-simple-machine-learning-model-into-a-webapp-using-tensorflow-js-3609c297fb04)
+TensorFlow, TensorFlow.js, HTML Code and web app deployment via GitHub is used and adapted with permission mainly from
+- [Deploying a Simple Machine Learning Model into a WebApp using TensorFlow.js](https://towardsdatascience.com/deploying-a-simple-machine-learning-model-into-a-webapp-using-tensorflow-js-3609c297fb04) by Carlos Aguayo
 
 TensorFlow code is also used and adapted from
-- [Handwritten Digit Recognition using Convolutional Neural Networks in Python with Keras by Jason Brownlee](https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/)
+- [Handwritten Digit Recognition using Convolutional Neural Networks in Python with Keras](https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/) by Jason Brownlee
