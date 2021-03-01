@@ -11,3 +11,8 @@ TensorFlow, HTML, TensorFlow.js code and web app deployment via GitHub is used a
 
 TensorFlow code is also used and adapted from
 - [Handwritten Digit Recognition using Convolutional Neural Networks in Python with Keras](https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/) by Jason Brownlee
+
+TensorFlow Data augmentation code is based on
+- [Build a handwritten digit classifier app with TensorFlow Lite, Step 7: Improve model accuracy with data augmentation](https://colab.research.google.com/github/tensorflow/examples/blob/master/lite/codelabs/digit_classifier/ml/step7_improve_accuracy.ipynb#scrollTo=mxPxpHKHMAkl) by The Tensorflow Authors
+
+
